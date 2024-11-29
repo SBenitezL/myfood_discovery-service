@@ -7,5 +7,6 @@ Proyecto sencillo que utiliza la librería de eureka server para registrar a los
 >
 > ```sh
 >    mvn clean package -DskipTests
+>    docker build -t discovery-server .
 >
 > ```
