@@ -5,6 +5,7 @@ Proyecto sencillo que utiliza la librería de eureka server para registrar a los
 > [!NOTE]
 > para ejecutar correctamente el Dockerfile debe ejecutar el commando:
 >
-> ```sh mvn clean package -DskipTests
+> ```sh
+>    mvn clean package -DskipTests
 >
 > ```
